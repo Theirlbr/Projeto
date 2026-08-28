@@ -1,6 +1,6 @@
 # Backlog Priorizado — SimulaAI
 
-Integrantes: Gabriel Reis de Souza(2840482421005)
+Integrantes: Gabriel Reis de Souza(2840482421005),Vinicius Brasileiro Veras(2840482421021)
 
 | # | História | Critérios de aceite | Prioridade (MoSCoW) | Estimativa | Sprint alvo |
 | --- | --- | --- | --- | --- | --- |
